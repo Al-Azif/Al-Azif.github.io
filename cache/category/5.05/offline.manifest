@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+CACHE:
+../../../exploits/5.05/Bin%20Loader/index.html
+../../../exploits/5.05/Disable%20Updates/index.html
+../../../exploits/5.05/FTP/index.html
+../../../exploits/5.05/HEN/index.html
+
+NETWORK:
+*
+
+# Hash: 6E935759B11EF8E4A2FAAB3EB1B7F51C

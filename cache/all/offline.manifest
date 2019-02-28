@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../exploits/5.05/Bin%20Loader/index.html
+../../exploits/5.05/Disable%20Updates/index.html
+../../exploits/5.05/FTP/index.html
+../../exploits/5.05/HEN/index.html
+../../exploits/Test%20Section/Bin%20Loader/index.html
+../../exploits/Test%20Section/HEN/index.html
+
+NETWORK:
+*
+
+# Hash: CD288FEE707531C60149943CA9F61541

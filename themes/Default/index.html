@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Exploit Host by Al Azif</title>
+<link rel="stylesheet" href="./themes/Default/bootstrap.min.css">
+<link rel="stylesheet" href="./themes/Default/default.css">
+<script src="./themes/Default/jquery-3.3.1.min.js"></script>
+<script src="./themes/Default/popper.min.js"></script>
+<script src="./themes/Default/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="overlay" id="cache-overlay">
+<div class="centered-text" id="bar-text">Caching...</div>
+<div id="bar-back">
+<div id="bar-load"></div>
+</div>
+</div>
+<div class="overlay" id="exploit-overlay">
+<div class="centered-text" id="exploit-message"></div>
+<div id="exploit-loader">Loading...</div>
+</div>
+<div id="alert-box"></div>
+<div id="modal-box">
+<div class="modal fade" id="meta-modal">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="meta-modal-title">*</h5>
+<button type="button" class="close" data-dismiss="modal">
+<span>&times;</span>
+</button>
+</div>
+<div class="modal-body" id="meta-modal-body"></div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="settings-modal">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Settings</h5>
+<button type="button" class="close" data-dismiss="modal">
+<span>&times;</span>
+</button>
+</div>
+<div class="modal-body" id="settings-modal-body">
+<label class="small">Language:</label>
+<div class="input-group w-100 mb-1">
+<select class="custom-select" id="language-selection"></select>
+<div class="input-group-append">
+<button type="button" class="btn btn-outline-secondary" id="submit-language">Submit</button>
+</div>
+</div>
+<label class="small">Theme:</label>
+<div class="input-group w-100 mb-3">
+<select class="custom-select" id="theme-selection"></select>
+<div class="input-group-append">
+<button type="button" class="btn btn-outline-secondary" id="submit-theme">Submit</button>
+</div>
+</div>
+<hr>
+<div id="custom-theme-options">
+<label class="small">Custom Background Image URL:</label>
+<div class="input-group w-100 mb-1">
+<input type="url" class="form-control" id="background-image-url" placeholder="Custom Background Image URL">
+<div class="input-group-append">
+<button type="button" class="btn btn-outline-secondary" id="submit-background-image">Submit</button>
+</div>
+</div>
+<label class="small">Custom CSS URL:</label>
+<div class="input-group w-100 mb-1">
+<input type="url" class="form-control" id="custom-css-url" placeholder="Custom CSS URL">
+<div class="input-group-append">
+<button type="button" class="btn btn-outline-secondary" id="submit-css">Submit</button>
+</div>
+</div>
+<label class="small">Custom JS URL:</label>
+<div class="input-group w-100 mb-3">
+<input type="url" class="form-control" id="custom-js-url" placeholder="Custom JS URL">
+<div class="input-group-append">
+<button type="button" class="btn btn-outline-secondary" id="submit-js">Submit</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<div class="w-100 text-right">
+<button type="button" class="btn btn-outline-danger mr-2" id="reset-defaults">Reset Defaults</button>
+<button type="button" class="btn btn-outline-success" id="reload-page">Reload Page</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-title">
+<h1 id="title">*</h1>
+</div>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12">
+<div class="content-header">
+<h3 id="header">*</h3>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12" id="buttons"></div>
+</div>
+</div>
+<iframe id="ifr" src="./blank.html"></iframe>
+<script src="./themes/Default/common.js"></script>
+<script src="./themes/Default/default.js"></script>
+</body>
+</html>
+<!--
+Copyright (c) 2017-2019 Al Azif, https://github.com/Al-Azif/ps4-exploit-host
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
