@@ -17,6 +17,7 @@ index.html
 ./themes/Default/index.html
 ./themes/Default/jquery-3.3.1.min.js
 ./themes/Default/popper.min.js
+./themes/Default/promise-polyfill.min.js
 ./themes/Default/ps4-updatefeature.html
 ./themes/Default/rpi.html
 ./themes/Default/rpi.js
@@ -33,4 +34,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# Hash: CE32FD63EB99FEBB8B75CBB372FC2887
+# Hash: 8F421447990F81D2A15E8EDED5A98604
