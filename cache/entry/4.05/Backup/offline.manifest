@@ -1,0 +1,16 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.05/Backup/expl.js
+../../../../exploits/4.05/Backup/fix.js
+../../../../exploits/4.05/Backup/gadgets.js
+../../../../exploits/4.05/Backup/index.html
+../../../../exploits/4.05/Backup/loader.js
+../../../../exploits/4.05/Backup/payload.js
+../../../../exploits/4.05/Backup/rop.js
+../../../../exploits/4.05/Backup/syscalls.js
+
+NETWORK:
+*
+
+# Hash: A0F2F37FD8A505643D3BE2C71DCEE3D4

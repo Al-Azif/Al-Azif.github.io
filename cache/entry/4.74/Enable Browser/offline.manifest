@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.74/Enable%20Browser/expl.js
+../../../../exploits/4.74/Enable%20Browser/index.html
+../../../../exploits/4.74/Enable%20Browser/kernel.js
+../../../../exploits/4.74/Enable%20Browser/payload.js
+../../../../exploits/4.74/Enable%20Browser/rop.js
+../../../../exploits/4.74/Enable%20Browser/syscalls.js
+../../../../exploits/4.74/Enable%20Browser/userland.js
+
+NETWORK:
+*
+
+# Hash: 0CF74D0343D29B1B5237D3EADA8EB74B

@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/5.05/History%20Blocker/expl.js
+../../../../exploits/5.05/History%20Blocker/index.html
+../../../../exploits/5.05/History%20Blocker/kernel.js
+../../../../exploits/5.05/History%20Blocker/payload.js
+../../../../exploits/5.05/History%20Blocker/rop.js
+../../../../exploits/5.05/History%20Blocker/syscalls.js
+../../../../exploits/5.05/History%20Blocker/userland.js
+
+NETWORK:
+*
+
+# Hash: 1C503074E75A12AE74B559BCD1B581A1

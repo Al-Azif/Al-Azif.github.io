@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.55/Restore/index.html
+../../../../exploits/4.55/Restore/kernel.js
+../../../../exploits/4.55/Restore/payload.js
+../../../../exploits/4.55/Restore/rop.js
+../../../../exploits/4.55/Restore/syscalls.js
+../../../../exploits/4.55/Restore/userland.js
+
+NETWORK:
+*
+
+# Hash: 651B417BDA21E0F7F3C46652645B277D

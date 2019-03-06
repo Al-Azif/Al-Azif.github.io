@@ -23,10 +23,6 @@ index.html
 ./themes/Default/rpi.js
 ./themes/Default/sha.js
 ./themes/Default/style.css
-./themes/Default/images/0.png
-./themes/Default/images/1.png
-./themes/Default/images/2.png
-./themes/Default/images/3.png
 
 NETWORK:
 *
@@ -34,4 +30,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# Hash: 8F421447990F81D2A15E8EDED5A98604
+# Hash: 2AB3B7E589273E692164E038EFA314AB

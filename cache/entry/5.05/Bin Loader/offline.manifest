@@ -1,9 +1,14 @@
 CACHE MANIFEST
 
 CACHE:
+../../../../exploits/5.05/Bin%20Loader/expl.js
 ../../../../exploits/5.05/Bin%20Loader/index.html
+../../../../exploits/5.05/Bin%20Loader/kernel.js
+../../../../exploits/5.05/Bin%20Loader/rop.js
+../../../../exploits/5.05/Bin%20Loader/syscalls.js
+../../../../exploits/5.05/Bin%20Loader/userland.js
 
 NETWORK:
 *
 
-# Hash: E0AE66D9C8AF9D4BCF68484E8AA4A311
+# Hash: E26D1449959B773C3D2454F7974E1A70

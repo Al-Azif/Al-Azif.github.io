@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.55/Enable%20Updates/index.html
+../../../../exploits/4.55/Enable%20Updates/kernel.js
+../../../../exploits/4.55/Enable%20Updates/payload.js
+../../../../exploits/4.55/Enable%20Updates/rop.js
+../../../../exploits/4.55/Enable%20Updates/syscalls.js
+../../../../exploits/4.55/Enable%20Updates/userland.js
+
+NETWORK:
+*
+
+# Hash: 8726DAE6E6DD0C9DC4EA90D1C1DFD704

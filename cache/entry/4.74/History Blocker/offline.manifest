@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.74/History%20Blocker/expl.js
+../../../../exploits/4.74/History%20Blocker/index.html
+../../../../exploits/4.74/History%20Blocker/kernel.js
+../../../../exploits/4.74/History%20Blocker/payload.js
+../../../../exploits/4.74/History%20Blocker/rop.js
+../../../../exploits/4.74/History%20Blocker/syscalls.js
+../../../../exploits/4.74/History%20Blocker/userland.js
+
+NETWORK:
+*
+
+# Hash: 1EEB6E22DB2A86DFA9A24AA1E7300C7C

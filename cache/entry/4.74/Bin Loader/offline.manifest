@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.74/Bin%20Loader/expl.js
+../../../../exploits/4.74/Bin%20Loader/index.html
+../../../../exploits/4.74/Bin%20Loader/kernel.js
+../../../../exploits/4.74/Bin%20Loader/rop.js
+../../../../exploits/4.74/Bin%20Loader/syscalls.js
+../../../../exploits/4.74/Bin%20Loader/userland.js
+
+NETWORK:
+*
+
+# Hash: 11FF70F5EAAD425F06235617C8C1B88F

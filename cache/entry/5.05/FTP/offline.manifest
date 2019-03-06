@@ -1,9 +1,15 @@
 CACHE MANIFEST
 
 CACHE:
+../../../../exploits/5.05/FTP/expl.js
 ../../../../exploits/5.05/FTP/index.html
+../../../../exploits/5.05/FTP/kernel.js
+../../../../exploits/5.05/FTP/payload.js
+../../../../exploits/5.05/FTP/rop.js
+../../../../exploits/5.05/FTP/syscalls.js
+../../../../exploits/5.05/FTP/userland.js
 
 NETWORK:
 *
 
-# Hash: A1A2FC9661B03758008F43DDAFB99747
+# Hash: 25461D47B67FEA767F8D7AEF50B7926A

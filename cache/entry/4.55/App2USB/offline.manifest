@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.55/App2USB/index.html
+../../../../exploits/4.55/App2USB/kernel.js
+../../../../exploits/4.55/App2USB/payload.js
+../../../../exploits/4.55/App2USB/rop.js
+../../../../exploits/4.55/App2USB/syscalls.js
+../../../../exploits/4.55/App2USB/userland.js
+
+NETWORK:
+*
+
+# Hash: 6EAD2CC5F064D03CEA5C9D7F2FE8A5FB

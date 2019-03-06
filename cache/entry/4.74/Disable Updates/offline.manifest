@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.74/Disable%20Updates/expl.js
+../../../../exploits/4.74/Disable%20Updates/index.html
+../../../../exploits/4.74/Disable%20Updates/kernel.js
+../../../../exploits/4.74/Disable%20Updates/payload.js
+../../../../exploits/4.74/Disable%20Updates/rop.js
+../../../../exploits/4.74/Disable%20Updates/syscalls.js
+../../../../exploits/4.74/Disable%20Updates/userland.js
+
+NETWORK:
+*
+
+# Hash: 0192738BAE796497D7E477B1EBE4CAA7

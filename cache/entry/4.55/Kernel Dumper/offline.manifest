@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.55/Kernel%20Dumper/index.html
+../../../../exploits/4.55/Kernel%20Dumper/kernel.js
+../../../../exploits/4.55/Kernel%20Dumper/payload.js
+../../../../exploits/4.55/Kernel%20Dumper/rop.js
+../../../../exploits/4.55/Kernel%20Dumper/syscalls.js
+../../../../exploits/4.55/Kernel%20Dumper/userland.js
+
+NETWORK:
+*
+
+# Hash: AEB7509016E16A7E5E53DC6DF067569A

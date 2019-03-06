@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.74/Dumper/expl.js
+../../../../exploits/4.74/Dumper/index.html
+../../../../exploits/4.74/Dumper/kernel.js
+../../../../exploits/4.74/Dumper/payload.js
+../../../../exploits/4.74/Dumper/rop.js
+../../../../exploits/4.74/Dumper/syscalls.js
+../../../../exploits/4.74/Dumper/userland.js
+
+NETWORK:
+*
+
+# Hash: EEFCAA4A9EEF830A07A0974DA17ED741

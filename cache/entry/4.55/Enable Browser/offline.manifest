@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.55/Enable%20Browser/index.html
+../../../../exploits/4.55/Enable%20Browser/kernel.js
+../../../../exploits/4.55/Enable%20Browser/payload.js
+../../../../exploits/4.55/Enable%20Browser/rop.js
+../../../../exploits/4.55/Enable%20Browser/syscalls.js
+../../../../exploits/4.55/Enable%20Browser/userland.js
+
+NETWORK:
+*
+
+# Hash: 93CF7055DB99AF6E252F1A0E4563AA72
