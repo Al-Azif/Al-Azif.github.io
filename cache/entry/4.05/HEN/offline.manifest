@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.05/HEN/expl.js
+../../../../exploits/4.05/HEN/fix.js
+../../../../exploits/4.05/HEN/gadgets.js
+../../../../exploits/4.05/HEN/index.html
+../../../../exploits/4.05/HEN/payload.js
+../../../../exploits/4.05/HEN/rop.js
+../../../../exploits/4.05/HEN/syscalls.js
+
+NETWORK:
+*
+
+# Hash: DB5FF7ECF67E2E656EF3AC5E021A80AC

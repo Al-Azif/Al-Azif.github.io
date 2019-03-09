@@ -5,7 +5,6 @@ CACHE:
 ../../../../exploits/4.05/Restore/fix.js
 ../../../../exploits/4.05/Restore/gadgets.js
 ../../../../exploits/4.05/Restore/index.html
-../../../../exploits/4.05/Restore/loader.js
 ../../../../exploits/4.05/Restore/payload.js
 ../../../../exploits/4.05/Restore/rop.js
 ../../../../exploits/4.05/Restore/syscalls.js
@@ -13,4 +12,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: 52E9F6C2C32A9976C78F77DDAA633923
+# Hash: 9D8C0DEF415F6A199223126087F7D37B

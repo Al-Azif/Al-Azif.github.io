@@ -5,7 +5,6 @@ CACHE:
 ../../../../exploits/4.05/Enable%20Updates/fix.js
 ../../../../exploits/4.05/Enable%20Updates/gadgets.js
 ../../../../exploits/4.05/Enable%20Updates/index.html
-../../../../exploits/4.05/Enable%20Updates/loader.js
 ../../../../exploits/4.05/Enable%20Updates/payload.js
 ../../../../exploits/4.05/Enable%20Updates/rop.js
 ../../../../exploits/4.05/Enable%20Updates/syscalls.js
@@ -13,4 +12,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: 9BA3DE259698F8C858DA38AF8C7F74AF
+# Hash: 29C9BB122C9F0BC15D5E03D5E7AB3798

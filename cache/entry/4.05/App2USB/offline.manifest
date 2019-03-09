@@ -5,7 +5,6 @@ CACHE:
 ../../../../exploits/4.05/App2USB/fix.js
 ../../../../exploits/4.05/App2USB/gadgets.js
 ../../../../exploits/4.05/App2USB/index.html
-../../../../exploits/4.05/App2USB/loader.js
 ../../../../exploits/4.05/App2USB/payload.js
 ../../../../exploits/4.05/App2USB/rop.js
 ../../../../exploits/4.05/App2USB/syscalls.js
@@ -13,4 +12,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: 9A0B8D862C81658130401981EE0C20BD
+# Hash: F7D9F8F850DD0C37CF3B7109B9990D1C

@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/1.01/Playground/browser.html
+../../../../exploits/1.01/Playground/index.html
+../../../../exploits/1.01/Playground/css/main.css
+../../../../exploits/1.01/Playground/js/code.js
+../../../../exploits/1.01/Playground/js/exploit.js
+../../../../exploits/1.01/Playground/js/gadgets.js
+../../../../exploits/1.01/Playground/js/just-rop.js
+../../../../exploits/1.01/Playground/js/network.js
+../../../../exploits/1.01/Playground/js/utils.js
+
+NETWORK:
+*
+
+# Hash: 1EB0939DB85BCBEDE51D0792EEBFD88A

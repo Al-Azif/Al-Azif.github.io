@@ -18,6 +18,7 @@ CACHE:
 ../../../exploits/4.74/Bin%20Loader/expl.js
 ../../../exploits/4.74/Bin%20Loader/index.html
 ../../../exploits/4.74/Bin%20Loader/kernel.js
+../../../exploits/4.74/Bin%20Loader/ping.js
 ../../../exploits/4.74/Bin%20Loader/rop.js
 ../../../exploits/4.74/Bin%20Loader/syscalls.js
 ../../../exploits/4.74/Bin%20Loader/userland.js
@@ -70,6 +71,13 @@ CACHE:
 ../../../exploits/4.74/Kernel%20Dumper/rop.js
 ../../../exploits/4.74/Kernel%20Dumper/syscalls.js
 ../../../exploits/4.74/Kernel%20Dumper/userland.js
+../../../exploits/4.74/Linux/expl.js
+../../../exploits/4.74/Linux/index.html
+../../../exploits/4.74/Linux/kernel.js
+../../../exploits/4.74/Linux/payload.js
+../../../exploits/4.74/Linux/rop.js
+../../../exploits/4.74/Linux/syscalls.js
+../../../exploits/4.74/Linux/userland.js
 ../../../exploits/4.74/Restore/expl.js
 ../../../exploits/4.74/Restore/index.html
 ../../../exploits/4.74/Restore/kernel.js
@@ -77,8 +85,15 @@ CACHE:
 ../../../exploits/4.74/Restore/rop.js
 ../../../exploits/4.74/Restore/syscalls.js
 ../../../exploits/4.74/Restore/userland.js
+../../../exploits/4.74/RIF%20Renamer/expl.js
+../../../exploits/4.74/RIF%20Renamer/index.html
+../../../exploits/4.74/RIF%20Renamer/kernel.js
+../../../exploits/4.74/RIF%20Renamer/payload.js
+../../../exploits/4.74/RIF%20Renamer/rop.js
+../../../exploits/4.74/RIF%20Renamer/syscalls.js
+../../../exploits/4.74/RIF%20Renamer/userland.js
 
 NETWORK:
 *
 
-# Hash: 5878C0BC9041C521FEA0C350F856A8F7
+# Hash: C2DB4908B9E677D61F684A97168E2003

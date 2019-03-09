@@ -1,0 +1,10 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/5.05/Linux/index.html
+../../../../exploits/5.05/Linux/payload.js
+
+NETWORK:
+*
+
+# Hash: 47BC25ACF12514EBEF63370D3A34E7FE

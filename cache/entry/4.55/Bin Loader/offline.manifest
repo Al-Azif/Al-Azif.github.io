@@ -4,6 +4,7 @@ CACHE:
 ../../../../exploits/4.55/Bin%20Loader/index.html
 ../../../../exploits/4.55/Bin%20Loader/kernel.js
 ../../../../exploits/4.55/Bin%20Loader/loader.js
+../../../../exploits/4.55/Bin%20Loader/ping.js
 ../../../../exploits/4.55/Bin%20Loader/rop.js
 ../../../../exploits/4.55/Bin%20Loader/syscalls.js
 ../../../../exploits/4.55/Bin%20Loader/userland.js
@@ -11,4 +12,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: B3E702A69ADC760FFCF8616F750F1B72
+# Hash: 37BEC31586C1ADC5ECDD1C282CD387A3

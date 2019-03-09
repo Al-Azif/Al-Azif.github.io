@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/WiiU/Homebrew%20Launcher/code300.bin
+../../../../exploits/WiiU/Homebrew%20Launcher/code310.bin
+../../../../exploits/WiiU/Homebrew%20Launcher/code400.bin
+../../../../exploits/WiiU/Homebrew%20Launcher/code410.bin
+../../../../exploits/WiiU/Homebrew%20Launcher/code500.bin
+../../../../exploits/WiiU/Homebrew%20Launcher/code532.bin
+../../../../exploits/WiiU/Homebrew%20Launcher/code550.bin
+../../../../exploits/WiiU/Homebrew%20Launcher/frame.html
+../../../../exploits/WiiU/Homebrew%20Launcher/index.html
+../../../../exploits/WiiU/Homebrew%20Launcher/payload300.html
+../../../../exploits/WiiU/Homebrew%20Launcher/payload310.html
+../../../../exploits/WiiU/Homebrew%20Launcher/payload400.html
+../../../../exploits/WiiU/Homebrew%20Launcher/payload410.html
+../../../../exploits/WiiU/Homebrew%20Launcher/payload500.html
+../../../../exploits/WiiU/Homebrew%20Launcher/payload532.html
+../../../../exploits/WiiU/Homebrew%20Launcher/payload540.mp4
+../../../../exploits/WiiU/Homebrew%20Launcher/payload550.mp4
+
+NETWORK:
+*
+
+# Hash: 04F2656848EE89C890F9AFB8E138D932

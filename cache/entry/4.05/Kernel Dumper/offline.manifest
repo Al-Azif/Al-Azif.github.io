@@ -5,7 +5,6 @@ CACHE:
 ../../../../exploits/4.05/Kernel%20Dumper/fix.js
 ../../../../exploits/4.05/Kernel%20Dumper/gadgets.js
 ../../../../exploits/4.05/Kernel%20Dumper/index.html
-../../../../exploits/4.05/Kernel%20Dumper/loader.js
 ../../../../exploits/4.05/Kernel%20Dumper/payload.js
 ../../../../exploits/4.05/Kernel%20Dumper/rop.js
 ../../../../exploits/4.05/Kernel%20Dumper/syscalls.js
@@ -13,4 +12,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: 967E59BF4EC0B3C6A5596FF255DA69D2
+# Hash: 194BEFE1B0D0191E8054F0DE0DF99A64

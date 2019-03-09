@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.55/RIF%20Renamer/index.html
+../../../../exploits/4.55/RIF%20Renamer/kernel.js
+../../../../exploits/4.55/RIF%20Renamer/payload.js
+../../../../exploits/4.55/RIF%20Renamer/rop.js
+../../../../exploits/4.55/RIF%20Renamer/syscalls.js
+../../../../exploits/4.55/RIF%20Renamer/userland.js
+
+NETWORK:
+*
+
+# Hash: BF6C3603AC8611AB2DF61ED0D95FD6C3

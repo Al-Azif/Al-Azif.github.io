@@ -1,15 +1,10 @@
 CACHE MANIFEST
 
 CACHE:
-../../../../exploits/5.05/Kernel%20Dumper/expl.js
 ../../../../exploits/5.05/Kernel%20Dumper/index.html
-../../../../exploits/5.05/Kernel%20Dumper/kernel.js
 ../../../../exploits/5.05/Kernel%20Dumper/payload.js
-../../../../exploits/5.05/Kernel%20Dumper/rop.js
-../../../../exploits/5.05/Kernel%20Dumper/syscalls.js
-../../../../exploits/5.05/Kernel%20Dumper/userland.js
 
 NETWORK:
 *
 
-# Hash: B086338F1646129030BC1904E002BDD6
+# Hash: EE9D19BDC220240D34A56DA365CBEBB5

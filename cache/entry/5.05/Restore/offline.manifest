@@ -1,15 +1,10 @@
 CACHE MANIFEST
 
 CACHE:
-../../../../exploits/5.05/Restore/expl.js
 ../../../../exploits/5.05/Restore/index.html
-../../../../exploits/5.05/Restore/kernel.js
 ../../../../exploits/5.05/Restore/payload.js
-../../../../exploits/5.05/Restore/rop.js
-../../../../exploits/5.05/Restore/syscalls.js
-../../../../exploits/5.05/Restore/userland.js
 
 NETWORK:
 *
 
-# Hash: CC2DF1FAB40F2E7662EE36A3F4D7CC7C
+# Hash: BBAA5B9A9F5134F8013E6A6CB8BFA1A7

@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.05/Linux/expl.js
+../../../../exploits/4.05/Linux/fix.js
+../../../../exploits/4.05/Linux/gadgets.js
+../../../../exploits/4.05/Linux/index.html
+../../../../exploits/4.05/Linux/payload.js
+../../../../exploits/4.05/Linux/rop.js
+../../../../exploits/4.05/Linux/syscalls.js
+
+NETWORK:
+*
+
+# Hash: AD563E9F7056A48886ABEDDE60E51D4A

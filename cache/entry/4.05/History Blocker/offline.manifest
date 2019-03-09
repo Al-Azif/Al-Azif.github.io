@@ -5,7 +5,6 @@ CACHE:
 ../../../../exploits/4.05/History%20Blocker/fix.js
 ../../../../exploits/4.05/History%20Blocker/gadgets.js
 ../../../../exploits/4.05/History%20Blocker/index.html
-../../../../exploits/4.05/History%20Blocker/loader.js
 ../../../../exploits/4.05/History%20Blocker/payload.js
 ../../../../exploits/4.05/History%20Blocker/rop.js
 ../../../../exploits/4.05/History%20Blocker/syscalls.js
@@ -13,4 +12,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: F73DDB7927D79371FAFC7BAAD5B4CB61
+# Hash: B9200D9C4580FF0AD42B64081E241E9A

@@ -1,0 +1,23 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/WiiU/Loadiine%20GX2/code300.bin
+../../../../exploits/WiiU/Loadiine%20GX2/code310.bin
+../../../../exploits/WiiU/Loadiine%20GX2/code400.bin
+../../../../exploits/WiiU/Loadiine%20GX2/code410.bin
+../../../../exploits/WiiU/Loadiine%20GX2/code500.bin
+../../../../exploits/WiiU/Loadiine%20GX2/code532.bin
+../../../../exploits/WiiU/Loadiine%20GX2/code550.bin
+../../../../exploits/WiiU/Loadiine%20GX2/frame.html
+../../../../exploits/WiiU/Loadiine%20GX2/index.html
+../../../../exploits/WiiU/Loadiine%20GX2/payload400.html
+../../../../exploits/WiiU/Loadiine%20GX2/payload410.html
+../../../../exploits/WiiU/Loadiine%20GX2/payload500.html
+../../../../exploits/WiiU/Loadiine%20GX2/payload532.html
+../../../../exploits/WiiU/Loadiine%20GX2/payload540.mp4
+../../../../exploits/WiiU/Loadiine%20GX2/payload550.mp4
+
+NETWORK:
+*
+
+# Hash: 2AE655AAD90E33D0710E274A09781AFD

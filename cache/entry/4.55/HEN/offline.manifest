@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.55/HEN/index.html
+../../../../exploits/4.55/HEN/kernel.js
+../../../../exploits/4.55/HEN/payload.js
+../../../../exploits/4.55/HEN/rop.js
+../../../../exploits/4.55/HEN/syscalls.js
+../../../../exploits/4.55/HEN/userland.js
+
+NETWORK:
+*
+
+# Hash: 8215916AAB1B9729838DCF2D1C432C1D

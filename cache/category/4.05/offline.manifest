@@ -5,7 +5,6 @@ CACHE:
 ../../../exploits/4.05/App2USB/fix.js
 ../../../exploits/4.05/App2USB/gadgets.js
 ../../../exploits/4.05/App2USB/index.html
-../../../exploits/4.05/App2USB/loader.js
 ../../../exploits/4.05/App2USB/payload.js
 ../../../exploits/4.05/App2USB/rop.js
 ../../../exploits/4.05/App2USB/syscalls.js
@@ -13,7 +12,6 @@ CACHE:
 ../../../exploits/4.05/Backup/fix.js
 ../../../exploits/4.05/Backup/gadgets.js
 ../../../exploits/4.05/Backup/index.html
-../../../exploits/4.05/Backup/loader.js
 ../../../exploits/4.05/Backup/payload.js
 ../../../exploits/4.05/Backup/rop.js
 ../../../exploits/4.05/Backup/syscalls.js
@@ -29,7 +27,6 @@ CACHE:
 ../../../exploits/4.05/Disable%20Updates/fix.js
 ../../../exploits/4.05/Disable%20Updates/gadgets.js
 ../../../exploits/4.05/Disable%20Updates/index.html
-../../../exploits/4.05/Disable%20Updates/loader.js
 ../../../exploits/4.05/Disable%20Updates/payload.js
 ../../../exploits/4.05/Disable%20Updates/rop.js
 ../../../exploits/4.05/Disable%20Updates/syscalls.js
@@ -37,7 +34,6 @@ CACHE:
 ../../../exploits/4.05/Dumper/fix.js
 ../../../exploits/4.05/Dumper/gadgets.js
 ../../../exploits/4.05/Dumper/index.html
-../../../exploits/4.05/Dumper/loader.js
 ../../../exploits/4.05/Dumper/payload.js
 ../../../exploits/4.05/Dumper/rop.js
 ../../../exploits/4.05/Dumper/syscalls.js
@@ -45,7 +41,6 @@ CACHE:
 ../../../exploits/4.05/Enable%20Browser/fix.js
 ../../../exploits/4.05/Enable%20Browser/gadgets.js
 ../../../exploits/4.05/Enable%20Browser/index.html
-../../../exploits/4.05/Enable%20Browser/loader.js
 ../../../exploits/4.05/Enable%20Browser/payload.js
 ../../../exploits/4.05/Enable%20Browser/rop.js
 ../../../exploits/4.05/Enable%20Browser/syscalls.js
@@ -53,7 +48,6 @@ CACHE:
 ../../../exploits/4.05/Enable%20Updates/fix.js
 ../../../exploits/4.05/Enable%20Updates/gadgets.js
 ../../../exploits/4.05/Enable%20Updates/index.html
-../../../exploits/4.05/Enable%20Updates/loader.js
 ../../../exploits/4.05/Enable%20Updates/payload.js
 ../../../exploits/4.05/Enable%20Updates/rop.js
 ../../../exploits/4.05/Enable%20Updates/syscalls.js
@@ -61,15 +55,20 @@ CACHE:
 ../../../exploits/4.05/FTP/fix.js
 ../../../exploits/4.05/FTP/gadgets.js
 ../../../exploits/4.05/FTP/index.html
-../../../exploits/4.05/FTP/loader.js
 ../../../exploits/4.05/FTP/payload.js
 ../../../exploits/4.05/FTP/rop.js
 ../../../exploits/4.05/FTP/syscalls.js
+../../../exploits/4.05/HEN/expl.js
+../../../exploits/4.05/HEN/fix.js
+../../../exploits/4.05/HEN/gadgets.js
+../../../exploits/4.05/HEN/index.html
+../../../exploits/4.05/HEN/payload.js
+../../../exploits/4.05/HEN/rop.js
+../../../exploits/4.05/HEN/syscalls.js
 ../../../exploits/4.05/History%20Blocker/expl.js
 ../../../exploits/4.05/History%20Blocker/fix.js
 ../../../exploits/4.05/History%20Blocker/gadgets.js
 ../../../exploits/4.05/History%20Blocker/index.html
-../../../exploits/4.05/History%20Blocker/loader.js
 ../../../exploits/4.05/History%20Blocker/payload.js
 ../../../exploits/4.05/History%20Blocker/rop.js
 ../../../exploits/4.05/History%20Blocker/syscalls.js
@@ -77,20 +76,32 @@ CACHE:
 ../../../exploits/4.05/Kernel%20Dumper/fix.js
 ../../../exploits/4.05/Kernel%20Dumper/gadgets.js
 ../../../exploits/4.05/Kernel%20Dumper/index.html
-../../../exploits/4.05/Kernel%20Dumper/loader.js
 ../../../exploits/4.05/Kernel%20Dumper/payload.js
 ../../../exploits/4.05/Kernel%20Dumper/rop.js
 ../../../exploits/4.05/Kernel%20Dumper/syscalls.js
+../../../exploits/4.05/Linux/expl.js
+../../../exploits/4.05/Linux/fix.js
+../../../exploits/4.05/Linux/gadgets.js
+../../../exploits/4.05/Linux/index.html
+../../../exploits/4.05/Linux/payload.js
+../../../exploits/4.05/Linux/rop.js
+../../../exploits/4.05/Linux/syscalls.js
 ../../../exploits/4.05/Restore/expl.js
 ../../../exploits/4.05/Restore/fix.js
 ../../../exploits/4.05/Restore/gadgets.js
 ../../../exploits/4.05/Restore/index.html
-../../../exploits/4.05/Restore/loader.js
 ../../../exploits/4.05/Restore/payload.js
 ../../../exploits/4.05/Restore/rop.js
 ../../../exploits/4.05/Restore/syscalls.js
+../../../exploits/4.05/RIF%20Renamer/expl.js
+../../../exploits/4.05/RIF%20Renamer/fix.js
+../../../exploits/4.05/RIF%20Renamer/gadgets.js
+../../../exploits/4.05/RIF%20Renamer/index.html
+../../../exploits/4.05/RIF%20Renamer/payload.js
+../../../exploits/4.05/RIF%20Renamer/rop.js
+../../../exploits/4.05/RIF%20Renamer/syscalls.js
 
 NETWORK:
 *
 
-# Hash: F6F504C8FEECFCF07918FFA8FCA2718D
+# Hash: EC12294671B4BF415C3D8F2277D27FE9

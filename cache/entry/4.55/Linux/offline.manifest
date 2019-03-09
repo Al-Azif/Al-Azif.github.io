@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/4.55/Linux/index.html
+../../../../exploits/4.55/Linux/kernel.js
+../../../../exploits/4.55/Linux/payload.js
+../../../../exploits/4.55/Linux/rop.js
+../../../../exploits/4.55/Linux/syscalls.js
+../../../../exploits/4.55/Linux/userland.js
+
+NETWORK:
+*
+
+# Hash: 10BE4D0D1210B87D92BAC1012390AE2A

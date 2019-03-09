@@ -5,7 +5,6 @@ CACHE:
 ../../../../exploits/4.05/FTP/fix.js
 ../../../../exploits/4.05/FTP/gadgets.js
 ../../../../exploits/4.05/FTP/index.html
-../../../../exploits/4.05/FTP/loader.js
 ../../../../exploits/4.05/FTP/payload.js
 ../../../../exploits/4.05/FTP/rop.js
 ../../../../exploits/4.05/FTP/syscalls.js
@@ -13,4 +12,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: F4E71E42A055DA15966484389093C4A1
+# Hash: B87B7FC73B879AD231B0064A2DBC0DAE
