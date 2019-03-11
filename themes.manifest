@@ -2,27 +2,29 @@ CACHE MANIFEST
 
 CACHE:
 ./
-index.html
 ./index.html
 ./blank.html
 ./api/theme_settings.json
 ./api/menu.json
 ./themes/error.html
+./themes/Default/.babel.bat
+./themes/Default/.eslintrc.js
+./themes/Default/bootstrap.bundle.min.js
 ./themes/Default/bootstrap.min.css
-./themes/Default/bootstrap.min.js
 ./themes/Default/common.js
 ./themes/Default/default.css
 ./themes/Default/default.js
-./themes/Default/image.png
 ./themes/Default/index.html
 ./themes/Default/jquery-3.3.1.min.js
-./themes/Default/popper.min.js
 ./themes/Default/promise-polyfill.min.js
 ./themes/Default/ps4-updatefeature.html
 ./themes/Default/rpi.html
 ./themes/Default/rpi.js
 ./themes/Default/sha.js
-./themes/Default/style.css
+./themes/Default/images/0.png
+./themes/Default/images/1.png
+./themes/Default/images/2.png
+./themes/Default/images/3.png
 
 NETWORK:
 *
@@ -30,4 +32,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# Hash: 2AB3B7E589273E692164E038EFA314AB
+# Hash: B3DF90E34EF115D2AA10367F954572D2

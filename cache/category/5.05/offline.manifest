@@ -34,6 +34,8 @@ CACHE:
 ../../../exploits/5.05/Linux%20VRAM3/payload.js
 ../../../exploits/5.05/PS4Debug/index.html
 ../../../exploits/5.05/PS4Debug/payload.js
+../../../exploits/5.05/REN/index.html
+../../../exploits/5.05/REN/payload.js
 ../../../exploits/5.05/Restore/index.html
 ../../../exploits/5.05/Restore/payload.js
 ../../../exploits/5.05/RIF%20Renamer/index.html
@@ -44,4 +46,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: 48DFDB456AC3DDFF562710F5F73A20F4
+# Hash: 113D20C88B1F21BA096EE7E486C0F2CF

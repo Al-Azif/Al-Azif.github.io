@@ -1,0 +1,32 @@
+CACHE MANIFEST
+
+CACHE:
+../../../exploits/4.74-5.07/App2USB/index.html
+../../../exploits/4.74-5.07/App2USB/payload.js
+../../../exploits/4.74-5.07/Backup/index.html
+../../../exploits/4.74-5.07/Backup/payload.js
+../../../exploits/4.74-5.07/Bin%20Loader/index.html
+../../../exploits/4.74-5.07/Bin%20Loader/payload.js
+../../../exploits/4.74-5.07/Disable%20Updates/index.html
+../../../exploits/4.74-5.07/Disable%20Updates/payload.js
+../../../exploits/4.74-5.07/Dumper/index.html
+../../../exploits/4.74-5.07/Dumper/payload.js
+../../../exploits/4.74-5.07/Enable%20Browser/index.html
+../../../exploits/4.74-5.07/Enable%20Browser/payload.js
+../../../exploits/4.74-5.07/Enable%20Updates/index.html
+../../../exploits/4.74-5.07/Enable%20Updates/payload.js
+../../../exploits/4.74-5.07/FTP/index.html
+../../../exploits/4.74-5.07/FTP/payload.js
+../../../exploits/4.74-5.07/History%20Blocker/index.html
+../../../exploits/4.74-5.07/History%20Blocker/payload.js
+../../../exploits/4.74-5.07/Kernel%20Dumper/index.html
+../../../exploits/4.74-5.07/Kernel%20Dumper/payload.js
+../../../exploits/4.74-5.07/Restore/index.html
+../../../exploits/4.74-5.07/Restore/payload.js
+../../../exploits/4.74-5.07/RIF%20Renamer/index.html
+../../../exploits/4.74-5.07/RIF%20Renamer/payload.js
+
+NETWORK:
+*
+
+# Hash: 372FE786364C7DC5019B1DE1BAA551F5
