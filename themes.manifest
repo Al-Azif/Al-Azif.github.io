@@ -7,8 +7,6 @@ CACHE:
 ./api/theme_settings.json
 ./api/menu.json
 ./themes/error.html
-./themes/Default/.babel.bat
-./themes/Default/.eslintrc.js
 ./themes/Default/bootstrap.bundle.min.js
 ./themes/Default/bootstrap.min.css
 ./themes/Default/common.js
