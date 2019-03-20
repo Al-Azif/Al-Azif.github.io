@@ -1,10 +1,12 @@
 CACHE MANIFEST
 
 CACHE:
+../../../../exploits/GTA%20(5.05)/Lamance/100.js
+../../../../exploits/GTA%20(5.05)/Lamance/127.js
 ../../../../exploits/GTA%20(5.05)/Lamance/index.html
-../../../../exploits/GTA%20(5.05)/Lamance/payload.js
+../../../../exploits/GTA%20(5.05)/Lamance/params.html
 
 NETWORK:
 *
 
-# Hash: 37ACCB1DE50255CD6AD09D5F1B8D0989
+# Hash: 68AAC8968522C3233AC8FF93C7445118

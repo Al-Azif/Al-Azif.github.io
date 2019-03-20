@@ -16,22 +16,29 @@ CACHE:
 ../../../exploits/5.05/Disable%20Updates/payload.js
 ../../../exploits/5.05/Dumper/index.html
 ../../../exploits/5.05/Dumper/payload.js
+../../../exploits/5.05/Enable%20Browser/index.html
+../../../exploits/5.05/Enable%20Browser/payload.js
 ../../../exploits/5.05/Enable%20Updates/index.html
 ../../../exploits/5.05/Enable%20Updates/payload.js
+../../../exploits/5.05/Fan%20Threshold/index.html
+../../../exploits/5.05/Fan%20Threshold/params.html
+../../../exploits/5.05/Fan%20Threshold/payload.js
 ../../../exploits/5.05/FTP/index.html
 ../../../exploits/5.05/FTP/payload.js
 ../../../exploits/5.05/HEN/index.html
 ../../../exploits/5.05/HEN/payload.js
 ../../../exploits/5.05/History%20Blocker/index.html
 ../../../exploits/5.05/History%20Blocker/payload.js
+../../../exploits/5.05/Kernel%20Clock/index.html
+../../../exploits/5.05/Kernel%20Clock/params.html
+../../../exploits/5.05/Kernel%20Clock/payload.js
 ../../../exploits/5.05/Kernel%20Dumper/index.html
 ../../../exploits/5.05/Kernel%20Dumper/payload.js
 ../../../exploits/5.05/Linux/index.html
-../../../exploits/5.05/Linux/payload.js
-../../../exploits/5.05/Linux%20VRAM1/index.html
-../../../exploits/5.05/Linux%20VRAM1/payload.js
-../../../exploits/5.05/Linux%20VRAM3/index.html
-../../../exploits/5.05/Linux%20VRAM3/payload.js
+../../../exploits/5.05/Linux/params.html
+../../../exploits/5.05/Linux/vram1.js
+../../../exploits/5.05/Linux/vram2.js
+../../../exploits/5.05/Linux/vram3.js
 ../../../exploits/5.05/PS4Debug/index.html
 ../../../exploits/5.05/PS4Debug/payload.js
 ../../../exploits/5.05/REN/index.html
@@ -46,4 +53,4 @@ CACHE:
 NETWORK:
 *
 
-# Hash: 113D20C88B1F21BA096EE7E486C0F2CF
+# Hash: FCB70F8697578DB845A6F4472D6AB675

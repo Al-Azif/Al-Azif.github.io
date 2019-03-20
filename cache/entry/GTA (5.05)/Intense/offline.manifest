@@ -1,10 +1,12 @@
 CACHE MANIFEST
 
 CACHE:
+../../../../exploits/GTA%20(5.05)/Intense/100.js
+../../../../exploits/GTA%20(5.05)/Intense/127.js
 ../../../../exploits/GTA%20(5.05)/Intense/index.html
-../../../../exploits/GTA%20(5.05)/Intense/payload.js
+../../../../exploits/GTA%20(5.05)/Intense/params.html
 
 NETWORK:
 *
 
-# Hash: 0EE98BFAA22B75D8E92EC9333446404C
+# Hash: 1AD2D98849F7E0388EAD92167976ECF2

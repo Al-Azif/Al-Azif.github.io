@@ -1,0 +1,11 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/5.05/Kernel%20Clock/index.html
+../../../../exploits/5.05/Kernel%20Clock/params.html
+../../../../exploits/5.05/Kernel%20Clock/payload.js
+
+NETWORK:
+*
+
+# Hash: EEE50690134844D800FDC9E2CF95C215

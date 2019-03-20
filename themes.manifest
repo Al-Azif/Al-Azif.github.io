@@ -12,13 +12,16 @@ CACHE:
 ./themes/Default/common.js
 ./themes/Default/default.css
 ./themes/Default/default.js
+./themes/Default/favicon.ico
 ./themes/Default/index.html
 ./themes/Default/jquery-3.3.1.min.js
 ./themes/Default/promise-polyfill.min.js
 ./themes/Default/ps4-updatefeature.html
+./themes/Default/robots.txt
 ./themes/Default/rpi.html
 ./themes/Default/rpi.js
 ./themes/Default/sha.js
+./themes/Default/sitemap.xml
 ./themes/Default/images/0.png
 ./themes/Default/images/1.png
 ./themes/Default/images/2.png
@@ -30,4 +33,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# Hash: B3DF90E34EF115D2AA10367F954572D2
+# Hash: F7BB5563529C79B2983A0882AFEDE5C1
